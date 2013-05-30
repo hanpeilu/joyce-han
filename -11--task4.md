@@ -58,5 +58,5 @@ Usecase：浏览兼职信息、注册、登陆、查看个人信息、修改个�
 [8]:http://fmn.xnpic.com/fmn057/20130530/2305/original_0mDb_44940000230c1191.jpg
 
 兼职评价：
-![xiezuotu][9
+![xiezuotu][9]
 [9]:http://fmn.rrfmn.com/fmn059/20130530/2305/original_sjAl_5dd3000022f71190.jpg 
