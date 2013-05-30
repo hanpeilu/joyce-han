@@ -8,11 +8,13 @@ Usecase：浏览兼职信息、注册、登陆、查看个人信息、修改个�
 兼职信息管理包含：兼职信息发布、兼职信息撤销、查看求职者信息
 ![yonglitu][1]
 [1]:http://fmn.rrimg.com/fmn060/20130530/2305/original_A8rs_5da30000229d1190.jpg 
- 
+![yonglitu][2]
+[2]:http://fmn.xnpic.com/fmn057/20130530/2305/original_N4JN_0ee0000022fd118c.jpg
  
 类图：
 共6个类：用户user、学生student、管理员administrator、企业company、职位position、评价evaluate。
- 
+![leitu][3]
+[3]:http://fmn.rrfmn.com/fmn059/20130530/2305/original_Xzha_720500001f01125d.jpg
 
 学生注册、兼职评价为例：
 学生注册：
@@ -38,17 +40,23 @@ Usecase：浏览兼职信息、注册、登陆、查看个人信息、修改个�
 
 3.1活动图：
 学生注册：
- 
+![huodongtu][4]
+[4]:http://fmn.rrfmn.com/fmn058/20130530/2305/original_HXqX_71b500001f30125d.jpg
 兼职评价：
- 
+![huodongtu][5]
+[5]:http://fmn.xnpic.com/fmn056/20130530/2305/original_Mx9W_727500001f2f125d.jpg
 3.2序列图：
 学生注册：
- 
+![xulietu][6]
+[6]:http://fmn.rrimg.com/fmn064/20130530/2305/original_A8kH_44030000231b1191.jpg
 兼职评价：
- 
+![xulietu][7]
+[7]:http://fmn.rrimg.com/fmn062/20130530/2305/original_h7gw_4454000022f51191.jpg
 3.3协作图：
 学生注册：
- 
+![xiezuotu][8]
+[8]:http://fmn.xnpic.com/fmn057/20130530/2305/original_0mDb_44940000230c1191.jpg
 
 兼职评价：
- 
+![xiezuotu][9
+[9]:http://fmn.rrfmn.com/fmn059/20130530/2305/original_sjAl_5dd3000022f71190.jpg 
