@@ -96,6 +96,7 @@
 [1]:http://fmn.rrimg.com/fmn065/20130606/1050/original_nHzI_048b0000546b1190.jpg
 
 2.注册界面
+
 学生会员注册：
 
 ![xueshengzhuce][2]
